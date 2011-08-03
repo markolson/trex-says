@@ -1,0 +1,5 @@
+config.rb
+data/qwantz.db
+vendor/**
+.bundle/**
+lastupdate
